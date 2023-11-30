@@ -6,7 +6,7 @@
 
 <body>
 	<div class="container">
-		<h1 style="color: blue">{{connectionString}}</h1>
+		<h1 >{{connectionString}}</h1>
 		<h1>This is the {{name}} Template heart</h1>
 		<p>
 			Today is {{date}}.
